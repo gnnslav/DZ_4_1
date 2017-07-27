@@ -1,0 +1,51 @@
+#border {
+	width: 400px ;
+	height: 550px;
+	border: 1px solid;
+}
+.name {
+	height: 70px;
+	text-align: center;
+	font-size: 22pt;
+	font-family: tahoma;
+}
+.picture {
+	height: 270px;
+	width: 251px;
+	margin: 0px 0px 30px 76px;
+}
+#inf {
+	height: 170px;
+}
+.credit {
+	height: 40px;
+	width: 190px;
+	margin: 0px 0px 00px 1px;
+	color: #fff7f7;
+	text-align: center;
+	font-size: 22pt;
+	font-family: tahoma;	
+	background: #8bc144; left;
+}
+.price {
+	height: 70px;
+	width: 228px;
+	margin: 10px 0px 0px 76px;
+	text-align: center;
+	font-size: 31pt;
+	font-family: tahoma;
+}
+.buy {
+	height: 50px;
+	width: 228px;
+	margin: 0px 0px 10px 76px;
+	color: #fff7f7;
+	text-align: center;
+	font-size: 28pt;
+	font-family: tahoma;	
+	background: #FF0000; center;
+}
+p {
+	margin: auto;
+}
+
